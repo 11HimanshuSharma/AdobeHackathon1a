@@ -1,0 +1,12 @@
+# PDF processing dependencies
+pymupdf>=1.23.0
+
+# Core Python libraries (most are built-in, but listing for clarity)
+# json - built-in
+# logging - built-in
+# re - built-in
+# pathlib - built-in
+# typing - built-in
+# collections - built-in
+# statistics - built-in
+# dataclasses - built-in (Python 3.7+)
